@@ -1,0 +1,99 @@
+.navbar-nav :hover {
+  color: rgb(230, 25, 25);
+}
+.carousel {
+  width: 90%;
+  margin: auto;
+}
+
+.programme-section {
+  margin-top: 5%;
+}
+
+.border-top {
+  height: 1px;
+}
+
+.product-card-container {
+  gap: 20px;
+}
+
+.social-container {
+  background-color: rgb(236, 234, 234);
+  width: 93%;
+}
+.box {
+  line-height: 40px;
+}
+
+.form-msg {
+  /* padding: 100px; */
+  height: 250px;
+}
+
+.frm-box {
+  background-color: rgb(202, 218, 205);
+}
+
+.circular-progress {
+  width: 100px;
+  height: 100px;
+  background: conic-gradient(#e93515 0% 87%, #e9ecef 25% 100%);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.inner-circle {
+  width: 70%;
+  height: 70%;
+  background: white;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inner-circle span {
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.circular-progress1 {
+  width: 100px;
+  height: 100px;
+  background: conic-gradient(#2dc453 0% 95%, #e9ecef 25% 100%);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.circular-progress2 {
+  width: 100px;
+  height: 100px;
+  background: conic-gradient(#e7e42f 0% 90%, #e9ecef 25% 100%);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.circular-progress3 {
+  width: 100px;
+  height: 100px;
+  background: conic-gradient(#007bff 0% 80%, #e9ecef 25% 100%);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.prg-card {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
